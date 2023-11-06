@@ -3,7 +3,7 @@
 This Python script downloads a YouTube video and extracts faces from the video frames, saving them with metadata in an organized directory structure.
 - I have tested it on a 2 hour vlog and it took around 10 minutes to complete. 
 
-![Example](sampleidea.gif)
+![Example](tktyNzq.gif)
 ## Prerequisites
 
 Before running this script, ensure the following libraries and packages are installed:

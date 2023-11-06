@@ -4,7 +4,11 @@ This Python script downloads a YouTube video and extracts faces from the video f
 - I have tested it on a 2 hour vlog and it took around 10 minutes to complete. 
 
 ![Example](sampleidea.gif)
-## Prerequisites
+
+
+You can then run the findmatch.py file to find matches for the file in the same folder called 'example.jpg'. You can replace this image but keep the same name or update the name in the script to whatever you choose.
+
+## Prerequisites for downloading & extracting faces
 
 Before running this script, ensure the following libraries and packages are installed:
 
@@ -13,6 +17,17 @@ Before running this script, ensure the following libraries and packages are inst
 - PIL
 - piexif
 - concurrent.futures
+
+  ## Prerequisites for checking faces
+
+  - dlib
+  - cmake
+  - face_recognition
+
+You may also need 
+```bash
+sudo apt-get install build-essential libopenblas-dev liblapack-dev libx11-dev
+```
 
 If you are running this on a system with a Debian-based Linux distribution, you may also need to install the `libgl1-mesa-glx` package for OpenCV dependencies:
 

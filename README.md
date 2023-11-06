@@ -1,6 +1,9 @@
 # YouTube Face Extractor
 
 This Python script downloads a YouTube video and extracts faces from the video frames, saving them with metadata in an organized directory structure.
+- I have tested it on a 2 hour vlog and it took around 10 minutes to complete. 
+
+![Video](tktyNzq.mp4)
 
 ## Prerequisites
 

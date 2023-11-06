@@ -1,6 +1,13 @@
+# Download/Extract faces
 pytube
 opencv-python
 numpy
 pillow
 piexif
+# sudo apt-get install libgl1-mesa-glx
 
+# Find Match
+dlib
+#sudo apt-get install cmake
+#pip install face_recognition
+#sudo apt-get install build-essential libopenblas-dev liblapack-dev libx11-dev

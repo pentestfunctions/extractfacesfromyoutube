@@ -1,0 +1,6 @@
+pytube
+opencv-python
+numpy
+pillow
+piexif
+

@@ -42,6 +42,10 @@ sudo apt-get install libgl1-mesa-glx
 git clone https://github.com/pentestfunctions/extractfacesfromyoutube.git
 cd extractfacesfromyoutube
 pip install -r requirements.txt
+sudo apt-get install cmake
+sudo apt-get install libgl1-mesa-glx
+pip install face_recognition
+sudo apt-get install build-essential libopenblas-dev liblapack-dev libx11-dev
 ```
 
 ## Usage

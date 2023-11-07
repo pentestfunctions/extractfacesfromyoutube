@@ -8,6 +8,8 @@ This Python script downloads a YouTube video and extracts faces from the video f
 
 You can then run the findmatch.py file to find matches for the file in the same folder called 'example.jpg'. You can replace this image but keep the same name or update the name in the script to whatever you choose.
 
+![Example](facefinder.gif)
+
 ## Prerequisites for downloading & extracting faces
 
 Before running this script, ensure the following libraries and packages are installed:
